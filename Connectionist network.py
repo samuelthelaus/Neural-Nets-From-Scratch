@@ -1,5 +1,3 @@
-# Worked together with B081705
-
 # Import for network 1 and 2
 import random
 import math
