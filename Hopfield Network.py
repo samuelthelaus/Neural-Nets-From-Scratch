@@ -1,5 +1,3 @@
-# Worked together with B081705, B081973
-
 # Import random and numpy
 import random
 import numpy
